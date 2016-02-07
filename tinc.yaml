@@ -1,0 +1,3 @@
+dependencies:
+  - name: dependency
+    path: dependency/

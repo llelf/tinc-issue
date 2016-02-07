@@ -22,7 +22,8 @@ library
   build-depends:
                 base >=4.8 && <4.9,
                 dependency,
-                acme-dont
+                acme-dont,
+                acme-pointful-numbers
 
   -- hs-source-dirs:      
   default-language:    Haskell2010
